@@ -1,0 +1,5 @@
+"0","# this part works on performing operations by group"
+"0",""
+"0","#### Count the number of transactions by date"
+"0","transaction_count <- transactionData[, .N, by = DATE]"
+"0","transaction_count"

@@ -1,0 +1,3 @@
+"0","#### Calculate the percentage difference between scaled control sales and trial sales"
+"0","percentageDiff <- merge(scaledControlSales[, c(""YEARMONTH"", ""controlSales"")], measureOverTime[STORE_NBR == trial_store, c(""YEARMONTH"", ""totSales"")], by = ""YEARMONTH"")[, percentDiff := abs(totSales-controlSales)/controlSales]"
+"0",""

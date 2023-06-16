@@ -1,0 +1,4 @@
+"0","####  Combine scores across the drivers by first merging our sales"
+"0","####  scores and customer scores into a single table"
+"0","score_Control <- merge(score_nSales,score_nCustomers, by = c(""Store1"",""Store2""))"
+"0","score_Control[, finalControlScore := scoreNSales * 0.5 + scoreNCust * 0.5]"

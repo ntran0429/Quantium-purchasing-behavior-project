@@ -1,0 +1,8 @@
+"0","#### Select control stores based on the highest matching store (closest to 1 but"
+"0","#### not the store itself, i.e. the second ranked highest store)"
+"0","control_store <- score_Control[order(-finalControlScore)][2][, Store2]"
+"0","control_store"
+"1","[1]"
+"1"," 233"
+"1","
+"
