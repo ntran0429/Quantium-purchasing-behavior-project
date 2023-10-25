@@ -1,5 +1,0 @@
-"0","#### Convert DATE column to a date format"
-"0","#### A quick search online tells us that CSV and Excel integer dates begin on 30"
-"0","#### Dec 1899"
-"0","transactionData$DATE <- as.Date(transactionData$DATE, origin = ""1899-12-30"")"
-"0",""

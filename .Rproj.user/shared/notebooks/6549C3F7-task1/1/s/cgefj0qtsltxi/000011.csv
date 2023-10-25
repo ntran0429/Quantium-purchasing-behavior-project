@@ -1,6 +1,0 @@
-"0",""
-"0",""
-"0","ggplot(avg_units, aes(x = LIFESTAGE, y = AVG, fill = PREMIUM_CUSTOMER)) +"
-"0","  geom_bar(stat = ""identity"", position = ""dodge"") +   "
-"0","  labs(x = ""LIFESTAGE"", y = ""Units per Customer"", title = ""Average Units per Customer by LIFESTAGE and PREMIUM_CUSTOMER"") +"
-"0","  theme(axis.text.x = element_text(angle = 45, hjust = .7))"

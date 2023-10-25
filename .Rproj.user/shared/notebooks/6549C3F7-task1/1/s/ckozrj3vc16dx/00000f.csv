@@ -1,5 +1,0 @@
-"0","#### Calculate the average price per unit sold (average sale price) "
-"0","#### by LIFESTAGE and PREMIUM_CUSTOMER"
-"0",""
-"0","avg_price <- data[, mean(TOT_SALES/PROD_QTY), by = .(LIFESTAGE,PREMIUM_CUSTOMER)]"
-"0","avg_price[order(-V1)]"

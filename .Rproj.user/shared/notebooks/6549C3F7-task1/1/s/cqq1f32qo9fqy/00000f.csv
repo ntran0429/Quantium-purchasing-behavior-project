@@ -1,3 +1,0 @@
-"0","#### Average number of units per customer by LIFESTAGE and PREMIUM_CUSTOMER"
-"0","avg_units <- data[, .(AVG = sum(PROD_QTY)/uniqueN(LYLTY_CARD_NBR)),.(LIFESTAGE, PREMIUM_CUSTOMER)][order(-AVG)]"
-"0","avg_units"

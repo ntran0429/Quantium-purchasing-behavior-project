@@ -1,7 +1,0 @@
-"0",""
-"0","ggplot(avg_price, aes(x = LIFESTAGE, y = V1, fill = PREMIUM_CUSTOMER)) +"
-"0","  geom_bar(stat = ""identity"", position = ""dodge"") +   "
-"0","  labs(x = ""LIFESTAGE"", y = ""Average price per unit"", "
-"0","       title = ""Average price per unit chips bought by LIFESTAGE and PREMIUM_CUSTOMER"") +"
-"0","  theme(axis.text.x = element_text(angle = 45, hjust = .7))"
-"0",""

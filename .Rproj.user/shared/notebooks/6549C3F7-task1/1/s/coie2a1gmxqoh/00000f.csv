@@ -1,6 +1,0 @@
-"0","#### Let's plot a histogram of PACK_SIZE since we know that it is a categorical"
-"0","# variable and not a continuous variable even though it is numeric."
-"0",""
-"0","# plot a histogram showing the number of transactions by pack size."
-"0","ggplot(transactionData, aes(x = PACK_SIZE)) +"
-"0","  geom_histogram(bins = 20)"

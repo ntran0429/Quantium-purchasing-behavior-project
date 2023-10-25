@@ -1,7 +1,0 @@
-"0","#### find the 95th percentile of our null distribution (which is the t distribution)"
-"0","#### to check whether the hypothesis is statistically significant."
-"0","qt(.95,degreesOfFreedom)"
-"1","[1]"
-"1"," 1.894579"
-"1","
-"

@@ -1,7 +1,0 @@
-"0","#### Create a combined score composed of correlation and magnitude, by"
-"0","#### first merging the correlations table with the magnitude table."
-"0","#### A simple average on the scores would be 0.5 * corr_measure + 0.5 * mag_measure"
-"0","corr_weight <- 0.5"
-"0","score_nSales <- merge(corr_nSales,magnitude_nSales, by = c(""Store1"",""Store2""))[, scoreNSales := corr_weight * corr_measure + (1-corr_weight) * mag_measure]"
-"0",""
-"0","score_nCustomers <- merge(corr_nCustomers,magnitude_nCustomers, by = c(""Store1"",""Store2""))[, scoreNCust := corr_weight * corr_measure + (1-corr_weight) * mag_measure]"

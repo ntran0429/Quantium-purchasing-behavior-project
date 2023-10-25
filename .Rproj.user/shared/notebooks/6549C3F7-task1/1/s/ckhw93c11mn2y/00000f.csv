@@ -1,3 +1,0 @@
-"0","#### Merge transaction data to customer data"
-"0","data <- merge(transactionData, customerData, all.x = TRUE)"
-"0",""

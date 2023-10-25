@@ -1,7 +1,0 @@
-"0","#### Pack size"
-"0","#### We can work this out by taking the digits that are in PROD_NAME"
-"0","transactionData[, PACK_SIZE := parse_number(PROD_NAME)]"
-"0",""
-"0","#### Always check your output"
-"0","#### Let's check if the pack sizes look sensible"
-"0","transactionData[, .N, PACK_SIZE][order(PACK_SIZE)]"
