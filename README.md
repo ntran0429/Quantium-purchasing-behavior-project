@@ -17,7 +17,7 @@ Julia has asked us to also test the impact of the new trial layouts with a data 
 and Magnitude Distance measures to test the impact of the trial store layouts on customer sales ([Task 2](https://rpubs.com/harisht9/1139954)).
 
 * Presented a comprehensive client report in PowerPoint, introducing the actionable results first then getting into the why’s
-and how’s. (Task 3).
+and how’s. ([Task 3](https://github.com/ntran0429/Quantium-purchasing-behavior-project/blob/main/Task3_presentationFinal.pdf)).
 
 * Communicated statistical evidence to client, confirming the success of the trial layout, and recommended its deployment
 across all stores.
