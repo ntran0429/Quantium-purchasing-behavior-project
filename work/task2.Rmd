@@ -1,5 +1,5 @@
 ---
-title: "Quantium Virtual Internship - Retail Strategy and Analytics - Task 2"
+title: "Quantium - Assessing New Store Layout - Task 2"
 mainfont: Georgia
 monofont: Courier New
 output:
