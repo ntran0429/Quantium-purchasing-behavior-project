@@ -4,8 +4,8 @@ username:
 account: rpubs
 server: rpubs.com
 hostUrl: rpubs.com
-appId: https://api.rpubs.com/api/v1/document/1081206/8d739a1d59484a4a96cb93ffbd012be2
-bundleId: https://api.rpubs.com/api/v1/document/1081206/8d739a1d59484a4a96cb93ffbd012be2
-url: http://rpubs.com/harisht9/1081206
-when: 1694539324.00672
-lastSyncTime: 1694539324.00673
+appId: https://api.rpubs.com/api/v1/document/1139958/c4551b2569964790a7121019be0afb06
+bundleId: https://api.rpubs.com/api/v1/document/1139958/c4551b2569964790a7121019be0afb06
+url: http://rpubs.com/publish/claim/1139958/eb245fd4c8ab492faf8b22efcceaa221
+when: 1705797609.78948
+lastSyncTime: 1705797609.78949

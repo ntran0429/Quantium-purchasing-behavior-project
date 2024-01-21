@@ -15,7 +15,7 @@ format:
     highlight-style: github
 ---
 
-Note: This is a [virtual experience project](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0rLr-qqSBAxXClWoFHdOKCcUQFnoECBQQAQ&url=https%3A%2F%2Fwww.theforage.com%2Fvirtual-internships%2Fprototype%2FNkaC7knWtjSbi6aYv%2FData-Analytics&usg=AOvVaw0A0M2eX5jkAFxFYC12EzZX&opi=89978449) provided by theforage.com, done by Nguyen Tran.
+Note: This is a [virtual experience project](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0rLr-qqSBAxXClWoFHdOKCcUQFnoECBQQAQ&url=https%3A%2F%2Fwww.theforage.com%2Fvirtual-internships%2Fprototype%2FNkaC7knWtjSbi6aYv%2FData-Analytics&usg=AOvVaw0A0M2eX5jkAFxFYC12EzZX&opi=89978449) provided by Quantium, done by Nguyen Tran.
 
 For the full analysis with code, visit [Task 1](https://rpubs.com/harisht9/1070880) and [Task 2](https://rpubs.com/harisht9/1070882).
 
