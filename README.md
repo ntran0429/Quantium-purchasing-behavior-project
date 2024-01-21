@@ -8,7 +8,7 @@ Julia has asked us to also test the impact of the new trial layouts with a data 
 
 ## Deliverables
 
-1) Dashboard
+1) Final Report
 
 2) Presentation Slides
 
