@@ -8,7 +8,7 @@ Julia has asked us to also test the impact of the new trial layouts with a data 
 
 ## Deliverables
 
-1) Final Report
+1) [Final Report](https://github.com/ntran0429/Quantium-purchasing-behavior-project/blob/main/Final-Report.pdf)
 
 2) Presentation Slides
 
