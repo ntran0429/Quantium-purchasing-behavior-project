@@ -8,7 +8,7 @@ date: June 20, 2023
 abstract: |
   As part of Quantium's retail analytics team, we have been approached by our client Julia, the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region. She has also asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores. We generated insights and provided commercial recommendations based on the provided data sets, identified benchmark stores based on two statistical measures to test the impact of the trial store layouts on customer sales, and presented a comprehensive client report in PowerPoint, introducing the actionable results and then getting into the why's and how's. In completion, we communicated statistical evidence to client, confirming the success of the trial layout, and recommended its deployment across all stores.
 format:
-  html:
+  pdf:
     toc: true
     toc-depth: 2
     toc-title: Table of contents
