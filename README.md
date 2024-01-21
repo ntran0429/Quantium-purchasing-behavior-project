@@ -11,10 +11,10 @@ Julia has asked us to also test the impact of the new trial layouts with a data 
 
 
 ## Summary Results
-* Analyzed client’s chips transactional data set in R to identify customer purchasing behaviours (Task 1).
+* Analyzed client’s chips transactional data set in R to identify customer purchasing behaviours ([Task 1]([url](https://rpubs.com/harisht9/1139953))).
 
 * Generated insights and provided commercial recommendations. Identified benchmark stores based on Pearson Correlations
-and Magnitude Distance measures to test the impact of the trial store layouts on customer sales (Task 2).
+and Magnitude Distance measures to test the impact of the trial store layouts on customer sales ([Task 2]([url](https://rpubs.com/harisht9/1139954))).
 
 * Presented a comprehensive client report in PowerPoint, introducing the actionable results first then getting into the why’s
 and how’s. (Task 3).
